@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <canvas id="myCanvas"></canvas>
+    <!-- <object type="image/svg+xml" data="./SkodaIll.svg" class="logo">
+        Kiwi Logo
+      </object> -->
+    <script>
+        var myCanvas = document.getElementById('myCanvas');
+        myCanvas.width = 1000;
+        myCanvas.height = 1000;
+        var ctx = myCanvas.getContext('2d');
+        var img = new Image;
+        img.onload = function(){
+            ctx.drawImage(img,0,0);
+        };
+        img.src = "./SkodaIll.svg";
+    </script>
+</body>
+</html>

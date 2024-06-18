@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<g id="háttér">
+	<polygon style="fill:#DBDBDB;stroke:#000000;stroke-miterlimit:10;" points="815.95,337.89 797.47,337.89 815.95,337.89 
+		815.95,191.3 736.32,191.3 736.32,380.74 815.95,380.74 	"/>
+	<rect x="974.77" y="168.01" style="fill:#DBDBDB;stroke:#000000;stroke-miterlimit:10;" width="158.85" height="66.81"/>
+</g>
+<g id="termek">
+	
+		<rect id="I205_x3B_t.sz." x="736.32" y="337.89" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="23.06" height="42.85"/>
+	<rect id="N.WC" x="759.38" y="353.85" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="13.11" height="26.89"/>
+	<rect id="F.WC" x="772.49" y="353.85" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="13.11" height="26.89"/>
+	
+		<rect id="I204_x3B_szaktanterem" x="736.32" y="297.17" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="48.85" height="40.72"/>
+	
+		<rect id="I203_x3B_szaktanterem" x="736.32" y="249.34" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="48.85" height="47.83"/>
+	
+		<rect id="I202_x3B_szaktanterem" x="736.32" y="191.3" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="48.85" height="58.04"/>
+	
+		<rect id="I201_x3B_Szerver_szoba" x="785.17" y="191.3" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="30.78" height="32.12"/>
+	
+		<rect id="H204_x3B_szaktanterem_1_" x="1054.89" y="192.35" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="78.72" height="42.47"/>
+	
+		<rect id="F.WC_2_" x="974.77" y="180.39" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="24.64" height="11.96"/>
+	<g id="H203_x3B_szaktanterem_2_">
+		<polygon id="H203_x3B_szaktanterem_3_" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" points="1011.77,192.35 
+			1011.77,204.71 1036.55,204.71 1036.55,192.35 1054.89,192.35 1054.89,234.82 974.77,234.82 974.77,192.35 999.4,192.35 
+			999.4,204.71 999.4,192.35 		"/>
+	</g>
+	
+		<rect id="raktár_1_" x="1011.77" y="192.35" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="24.79" height="12.36"/>
+	
+		<rect id="N.WC_2_" x="974.77" y="168.01" style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" width="24.64" height="12.38"/>
+</g>
+<g id="lépcsők">
+	<g id="lépcső">
+		<polygon style="fill:#EFEFEF;stroke:#000000;stroke-miterlimit:10;" points="797.47,380.74 797.47,368.49 803.38,368.49 
+			803.38,350.19 815.95,350.19 815.95,380.74 		"/>
+		<g>
+			<polyline style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="814.61,360.68 812.14,360.68 812.14,363.15 
+				809.66,363.15 809.66,365.62 807.19,365.62 807.19,368.09 804.72,368.09 			"/>
+			<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="811.97,367.98 810.82,367.98 810.82,366.83 
+				811.39,367.41 813.55,365.25 811.39,367.41 			"/>
+		</g>
+	</g>
+	<g>
+		<rect x="1079.32" y="168.15" style="fill:#EFEFEF;stroke:#000000;stroke-miterlimit:10;" width="54.3" height="12.17"/>
+		<g>
+			<polyline style="fill:none;stroke:#020203;stroke-miterlimit:10;" points="1112.19,169.94 1109.33,169.94 1109.33,172.8 
+				1106.47,172.8 1106.47,175.66 1103.61,175.66 1103.61,178.52 1100.75,178.52 			"/>
+			<polygon style="fill:none;stroke:#020203;stroke-miterlimit:10;" points="1109.13,178.4 1107.81,178.4 1107.81,177.07 
+				1108.47,177.73 1110.97,175.23 1108.47,177.73 			"/>
+		</g>
+	</g>
+</g>
+</svg>

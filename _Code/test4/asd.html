@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+html,body{
+    display: grid;
+    background: #EDF7FA;
+}
+.box{
+    margin-top: 200px;
+    margin-left: 500px;
+    padding: 32px;
+}
+.select-box{
+    position: relative;
+    display: flex;
+    width: 250px;
+    flex-direction: column;
+}
+.option-container{
+    background: white;
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    order: 1;
+    color: rgb(56,52,52);
+    opacity: 0;
+}
+.option, .selected{
+    padding: 12px 24px;
+    cursor: pointer;
+}
+.select-box .option .radio{
+    display: none;
+}
+.selected{
+    background: white;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    color: rgb(56,52,52);
+    position: relative;
+    order: 0;
+}
+.selected:after{
+  content: '\f106';
+  position: absolute;
+  right: 20px;
+  font-family: 'Font Awesome 5 free';
+  font-weight: 700;
+  color: black;
+  transform: rotateX(180deg);
+  transition:all 0.4s;
+}
+ 
+.select-box .option:hover{
+    background: #F1FFF3;
+    border-radius: 5px;
+    color: #8AD891;
+}
+.select-box input{
+ width: 100%;
+ padding: 16px 16px;
+ position: absolute;
+ z-index: 100;
+ border: none;
+ font-size: 16px;
+ outline: 2px solid hsl(240deg 7% 62%);
+ outline-offset: -10px;
+ opacity: 0;
+}
+#option1{
+    margin-top: 45px;
+}
+.active{
+    opacity: 1;
+    max-height: 240px;
+    overflow-y: scroll;
+    transition: all 0.4s;
+}
+.active ~ .selected::after{
+    transform: rotateY(180deg);
+}
+.active ~ .search-box input{
+    opacity: 1;
+    pointer-events: none;
+}
+.option-container::-webkit-scrollbar{
+    background: #888;
+    border-radius: 8px;
+    width: 7px;
+}
+.option-container::-webkit-scrollbar-thumb{
+    background: #464749;
+    border-radius: 8px;
+}
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div class="select-box">
+            <div class="option-container">
+                <div class="option" id="option1">
+                    <input type="radio" class="radio" >
+                    <label for="pet">Cat</label>
+                </div>
+                
+                <div class="option">
+                    <input type="radio" class="radio">
+                    <label for="pet">Dog</label>
+                </div>
+                <div class="option">
+                    <input type="radio" class="radio">
+                    <label for="pet">Mouse</label>
+                </div>
+                <div class="option">
+                    <input type="radio" class="radio">
+                    <label for="pet">Cow</label>
+                </div>
+                <div class="option">
+                    <input type="radio" class="radio">
+                    <label for="pet">Buffalo</label>
+                </div>
+                <div class="option">
+                    <input type="radio" class="radio">
+                    <label for="pet">Birds</label>
+                </div>
+            </div>
+            <div class="selected">
+                Select a pet
+            </div>
+            <div class="search-box">
+                <input type="text " placeholder="Search...">
+            </div>
+        </div>
+    </div>
+    <script>
+        const selected= document.querySelector(".selected");
+const optionsContainer = document.querySelector(".option-container");
+const searchBox= document.querySelector(".search-box input");
+const optionList =document.querySelectorAll(".option");
+selected.addEventListener("click",()=>{
+    optionsContainer.classList.toggle("active");
+    searchBox.value="";
+    filterList("");
+    if(optionsContainer.classList.contains("active")){
+        searchBox.focus();
+    }
+});
+optionList.forEach(o =>{
+    o.addEventListener("click",()=>{
+        selected.innerHTML =o.querySelector("label").innerHTML;
+        optionsContainer.classList.remove("active");
+    })
+});
+searchBox.addEventListener("keyup",function(e){
+    filterList(e.target.value);
+});
+const filterList =searchTerm =>{
+    // searchTerm =searchTerm.toLowerCase();
+    optionList.forEach(option=>{
+        let label =option.firstElementChild.nextElementSibling.innerText.toLowerCase();
+        if(label.indexOf(searchTerm)!=-1){
+            option.style.display="block";
+        }
+        else{
+            option.style.display="none";
+        }
+    });
+}
+    </script>
+</body>
+</html>

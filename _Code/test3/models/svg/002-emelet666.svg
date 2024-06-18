@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{display:inline;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g id="_x30_01-Földszint-keret" class="st0">
+	<polygon class="st1" points="38.78,446.78 38.78,517 549.79,517 549.79,566.68 607.59,566.68 607.59,517 764.43,517 764.43,541.65 
+		784.5,541.65 784.5,517 967.49,517 967.49,466.98 607.59,466.98 607.59,413.63 527.1,413.63 527.1,446.9 274.15,446.9 
+		274.15,389.22 188.43,389.22 188.43,446.9 	"/>
+	<polyline class="st1" points="665.46,503.99 607.59,503.99 607.59,477.08 	"/>
+</g>
+<g id="_x30_01-Földszint-termek" class="st0">
+	<rect id="F014_Vas_raktár" x="38.78" y="446.78" class="st2" width="62.97" height="20.2"/>
+	<rect id="F015_Anyag_vizsgáló" x="38.78" y="466.98" class="st2" width="75.56" height="50.02"/>
+	<rect id="F016_Osztály_terem" x="114.35" y="466.98" class="st2" width="63.8" height="50.02"/>
+	<rect id="F017_Öltöző" x="178.15" y="466.98" class="st2" width="25.31" height="50.02"/>
+	<rect id="F018_Képlékeny_átalakító" x="203.46" y="466.98" class="st2" width="22.93" height="50.02"/>
+	<rect id="F019_Karbantartó_műhely" x="226.39" y="466.98" class="st2" width="22.93" height="50.02"/>
+	<rect id="F020_x2C__F021_Gépműhely" x="249.32" y="466.98" class="st2" width="169.19" height="50.02"/>
+	<g id="F022_szerelő_műhely" class="st3">
+		<polygon class="st4" points="464.16,517 418.5,517 418.5,466.98 448.8,466.98 464.16,466.98 		"/>
+		<line class="st4" x1="448.8" y1="466.98" x2="448.8" y2="517"/>
+	</g>
+	<rect id="F023_t.sz." x="464.16" y="466.98" class="st2" width="15.15" height="50.02"/>
+	<rect id="F024_Szaktanterem" x="479.31" y="466.98" class="st2" width="105.95" height="50.02"/>
+	<rect id="F013_F.WC" x="203.51" y="426.76" class="st2" width="35.47" height="20.14"/>
+	<g class="st3">
+		<rect id="t.sz." x="238.98" y="426.76" class="st4" width="35.17" height="20.14"/>
+		<g id="F012">
+			<polygon class="st4" points="274.15,426.76 238.98,426.76 238.98,389.22 254.07,389.22 274.15,389.22 			"/>
+			<path class="st4" d="M254.07,389.22v37.54V389.22z"/>
+		</g>
+	</g>
+	<rect id="Hőközpont" x="203.51" y="389.22" class="st2" width="35.47" height="37.54"/>
+	<rect id="Bejárat" x="549.79" y="517" class="st2" width="12.48" height="19.51"/>
+	<rect id="Porta" x="549.79" y="536.51" class="st2" width="12.48" height="17.55"/>
+	<g class="st3">
+		<polygon class="st4" points="580.09,566.68 549.79,566.68 549.79,554.07 567.44,554.07 580.09,554.07 		"/>
+		<line class="st4" x1="567.44" y1="554.07" x2="567.44" y2="566.68"/>
+	</g>
+	<rect id="Büfé" x="580.09" y="554.07" class="st2" width="27.5" height="12.61"/>
+	<g class="st3">
+		<rect x="527.1" y="413.63" class="st4" width="42.83" height="33.27"/>
+		<rect id="F.WC" x="527.1" y="413.63" class="st4" width="30.3" height="33.27"/>
+		<rect id="Tan._WC" x="557.4" y="413.63" class="st4" width="12.53" height="19.9"/>
+	</g>
+	<rect id="F010_x2C__F009_Múzeum" x="665.46" y="466.98" class="st2" width="108.89" height="37.01"/>
+	<rect id="F008_Diák_öltöző" x="774.35" y="466.98" class="st2" width="22.72" height="37.01"/>
+	<rect id="F007_Diák_öltöző" x="797.07" y="466.98" class="st2" width="22.72" height="37.01"/>
+	<rect id="F006_régi_képl._átal." x="819.79" y="466.98" class="st2" width="22.46" height="37.01"/>
+	<rect id="F005_Vas_raktár" x="842.25" y="466.98" class="st2" width="55.07" height="37.01"/>
+	<rect id="F004_Hőcserélő" x="897.32" y="466.98" class="st2" width="29.9" height="37.01"/>
+	<rect id="F003_Takarítók" x="927.21" y="466.98" class="st2" width="40.28" height="37.01"/>
+	<rect id="F002" x="952.3" y="503.99" class="st2" width="15.19" height="13.01"/>
+	<rect id="F001_N.WC" x="764.43" y="517" class="st2" width="20.08" height="24.65"/>
+	<g class="st3">
+		<rect x="188.4" y="389.22" class="st5" width="15.11" height="37.54"/>
+		<polyline class="st4" points="201.68,403.7 198.82,403.7 198.82,406.56 195.96,406.56 195.96,409.42 193.1,409.42 193.1,412.28 
+			190.24,412.28 		"/>
+	</g>
+	<g class="st3">
+		<polygon class="st5" points="569.93,413.63 607.59,413.63 607.59,439.21 592.49,439.21 592.49,428.74 569.93,428.74 		"/>
+		<polyline class="st4" points="605.43,420.27 602.66,420.27 602.66,423.04 599.89,423.04 599.89,425.81 597.13,425.81 
+			597.13,428.57 594.36,428.57 		"/>
+	</g>
+</g>
+<g id="Réteg_6">
+	<path class="st5" d="M393.43,449.38H283.64v-71.28H40.57v139.15h567.02v13.7h111.75v-62.34h123.15v13.15h30.49v-13.15h36.68v30.49
+		h171.83v17.04h61.38V51.3h-24.34v30.64H932.66v77.23h135.57v-52.53h56.3v115.21h-36.95v227.53v6.09H848.06v-6.09v-48.81v-1.19
+		h12.09v-74.13h12.51v-18.64h-12.51V193.26h6.26l-0.89-68.09H565.15v-6.13h-67.34v43.23h-7.19v30.98h7.19v256.13h-85.36v-18.17
+		h-19.02v17.6V449.38z M703.55,449.38v-24.85H678.7V413h-71.11v-7.96h-23.96v-67.13h-18.49V193.26h233.94v256.13v6.09h-95.53V449.38
+		z M497.81,162.28v30.98"/>
+</g>
+<g id="_x30_02-emelet1-termek">
+	<rect id="Szertár" x="40.57" y="468.62" class="st4" width="48.64" height="48.64"/>
+	<rect id="F109_Testnevelés_terem" x="40.57" y="378.11" class="st4" width="145.19" height="90.51"/>
+	<rect id="F110_o.t." x="89.21" y="468.62" class="st4" width="66.64" height="48.64"/>
+	<rect id="F111_Kondi_terem" x="155.85" y="486.23" class="st4" width="48.89" height="31.02"/>
+	<rect id="F112_o.t." x="204.74" y="468.62" class="st4" width="63.57" height="48.64"/>
+	<rect id="F106_N.WC" x="204.74" y="419.3" class="st4" width="17.79" height="30.09"/>
+	<rect id="F104" x="246.87" y="440.3" class="st4" width="19.02" height="9.09"/>
+	<rect id="Bejárat_sportpálya_felől" x="393.43" y="431.21" class="st4" width="19.02" height="18.17"/>
+	<rect id="F102_N.WC" x="497.81" y="427.21" class="st4" width="24.89" height="22.17"/>
+	<rect id="L015_o.t." x="497.81" y="304.57" class="st4" width="49.23" height="76.94"/>
+	<rect id="L014_o.t." x="497.81" y="240.91" class="st4" width="49.23" height="63.66"/>
+	<rect id="L013_öltöző" x="497.81" y="193.26" class="st4" width="49.23" height="47.66"/>
+	<rect id="L012_Ak.m.WC" x="515.68" y="119.04" class="st4" width="11.87" height="43.23"/>
+	<rect id="L011_N.WC" x="527.55" y="119.04" class="st4" width="18.55" height="43.23"/>
+	<rect id="L010_F.WC" x="546.11" y="119.04" class="st4" width="19.04" height="43.23"/>
+	<rect id="L009_Szerves_labor" x="565.15" y="125.17" class="st4" width="121.89" height="48.94"/>
+	<rect id="Kapcsoló_szekrény" x="687.04" y="125.17" class="st4" width="24.77" height="48.94"/>
+	<rect id="Előkészítő" x="711.81" y="125.17" class="st4" width="37.53" height="48.94"/>
+	<rect id="Labor1_x2C__Labor2" x="749.34" y="125.17" class="st4" width="116.17" height="48.94"/>
+	<g id="L016_Orvosi_rendelő">
+		<rect x="497.81" y="381.51" class="st4" width="49.23" height="45.7"/>
+		<polygon class="st4" points="497.81,405.04 497.81,427.21 547.04,427.21 547.04,405.04 534.87,405.04 534.87,381.51 
+			497.81,381.51 		"/>
+		<line class="st4" x1="534.87" y1="405.04" x2="497.81" y2="405.04"/>
+	</g>
+	<rect id="F101_F.WC" x="522.7" y="427.21" class="st4" width="24.34" height="22.17"/>
+	<rect id="F135_o.t." x="607.59" y="413" class="st4" width="71.11" height="42.47"/>
+	<rect id="Kazánház" x="799.08" y="388.7" class="st4" width="36.9" height="66.77"/>
+	<rect id="Kazánház_előtér" x="799.08" y="370.11" class="st4" width="36.9" height="18.6"/>
+	<rect id="Bejárat_tanáriparkoló_felől" x="835.98" y="332.36" class="st4" width="24.17" height="17.53"/>
+	<rect x="860.15" y="306.62" class="st4" width="12.51" height="18.64"/>
+	<rect id="Karbantartó_műhely" x="799.08" y="300.91" class="st4" width="61.07" height="31.45"/>
+	<rect id="Raktár_2_" x="799.08" y="253" class="st4" width="61.07" height="47.91"/>
+	<rect id="Raktár_1_" x="817.26" y="193.26" class="st4" width="42.89" height="59.74"/>
+	<rect id="Raktár" x="799.08" y="229" class="st4" width="18.17" height="24"/>
+	<rect id="Tanári_pihenő" x="799.08" y="193.26" class="st4" width="18.17" height="35.74"/>
+	<g id="F134_t.sz.">
+		<rect x="678.7" y="424.53" class="st4" width="24.85" height="30.94"/>
+		<line class="st4" x1="694.32" y1="424.53" x2="694.32" y2="455.47"/>
+	</g>
+	<rect id="L001_t.konyha" x="565.15" y="387.17" class="st4" width="18.49" height="17.87"/>
+	<rect id="L002_F.WC" x="565.15" y="356.4" class="st4" width="18.49" height="30.77"/>
+	<rect id="L003_N.WC" x="565.15" y="337.91" class="st4" width="18.49" height="18.49"/>
+	<polyline id="F103_t.sz." class="st4" points="234.79,431.21 253.83,431.21 253.83,413.44 253.83,431.21 283.64,431.21 
+		283.64,378.11 253.83,378.11 253.83,395.47 253.83,378.11 234.79,378.11 234.79,431.21 	"/>
+	<polygon class="st4" points="265.89,440.3 265.89,449.38 283.64,449.38 283.64,431.21 246.81,431.21 234.79,431.21 234.79,449.38 
+		246.81,449.38 246.81,440.3 	"/>
+	<g id="F105_t.sz.">
+		<polygon class="st4" points="222.53,419.3 222.53,449.38 234.79,449.38 234.79,419.3 234.79,378.11 204.74,378.11 204.74,419.3 		
+			"/>
+		<rect x="204.74" y="407.57" class="st4" width="11.72" height="11.72"/>
+	</g>
+	<rect id="F113_o.t." x="268.32" y="468.62" class="st4" width="51.7" height="48.64"/>
+	<rect id="F114_o.t." x="320.02" y="468.62" class="st4" width="24.77" height="48.64"/>
+	<rect id="F115_o.t." x="344.79" y="468.62" class="st4" width="61.15" height="48.64"/>
+	<rect id="F116_o.t." x="405.94" y="468.62" class="st4" width="61.53" height="48.64"/>
+	<rect id="F117_t.sz." x="467.47" y="468.62" class="st4" width="24.34" height="48.64"/>
+	<rect id="F118_o.t." x="491.81" y="468.62" class="st4" width="55.32" height="48.64"/>
+	<rect id="F119_o.t." x="547.13" y="468.62" class="st4" width="60.47" height="48.64"/>
+	<rect id="F120_o.t." x="607.59" y="468.62" class="st4" width="62.34" height="62.34"/>
+	<rect id="F121_o.t." x="670.02" y="468.62" class="st4" width="49.32" height="62.34"/>
+	<rect id="F122_térképtár" x="842.49" y="468.62" class="st4" width="30.49" height="13.15"/>
+	<rect id="F123_o.t." x="909.66" y="468.62" class="st4" width="30.49" height="30.49"/>
+	<rect id="F124_o.t." x="940.15" y="468.62" class="st4" width="55.7" height="30.49"/>
+	<rect id="F125_o.t." x="995.85" y="468.62" class="st4" width="55.15" height="30.49"/>
+	<rect id="F126_DÖK" x="1051" y="468.62" class="st4" width="30.49" height="30.49"/>
+	<rect id="F130_N.WC" x="1112.53" y="491.91" class="st4" width="12.81" height="7.19"/>
+	<rect id="F129_F.WC" x="1112.53" y="484.72" class="st4" width="12.81" height="7.19"/>
+	<rect id="F128" x="1112.53" y="468.62" class="st4" width="6.26" height="16.1"/>
+	<rect id="H011_o.t." x="1087.59" y="273.43" class="st4" width="36.95" height="64.51"/>
+	<rect id="Kapcs._szekr." x="1136.91" y="337.94" class="st4" width="5.96" height="25.62"/>
+	<rect id="H010_o.t." x="1087.59" y="221.85" class="st4" width="36.95" height="51.57"/>
+	<rect id="H004_Hőközpont" x="1118.53" y="51.3" class="st4" width="24.34" height="30.64"/>
+	<rect id="K._sz." x="976.06" y="119.47" class="st4" width="18.51" height="11.49"/>
+	<rect id="WC" x="976.06" y="106.64" class="st4" width="18.51" height="12.83"/>
+	<rect id="F._WC" x="932.66" y="94.11" class="st4" width="30.64" height="12.53"/>
+	<rect id="H008_CISCO_labor" x="994.57" y="106.64" class="st4" width="24.26" height="52.53"/>
+	<rect id="H009_szaktanterem" x="1018.83" y="106.64" class="st4" width="49.4" height="52.53"/>
+	<polygon id="H007_rendszergazda" class="st4" points="932.66,106.64 932.66,159.17 994.57,159.17 994.57,130.96 976.06,130.96 
+		976.06,106.64 	"/>
+	<g id="N._WC">
+		<rect x="932.66" y="81.94" class="st4" width="30.64" height="12.17"/>
+		<line class="st4" x1="957.2" y1="81.94" x2="957.2" y2="94.11"/>
+		<line class="st4" x1="944.85" y1="81.94" x2="944.85" y2="94.11"/>
+	</g>
+	<polygon id="H001_o.t." class="st4" points="1120.06,363.55 1106.44,363.55 1106.44,382.69 1106.44,455.47 1142.87,455.47 
+		1142.87,382.69 1127.6,382.69 	"/>
+	<g id="F.WC_1_">
+		<polygon class="st4" points="1127.6,382.69 1142.87,382.69 1142.87,363.55 1120.06,363.55 		"/>
+		<line class="st4" x1="1130.91" y1="363.55" x2="1130.91" y2="382.69"/>
+	</g>
+	<polygon id="F._öltöző" class="st4" points="1112.57,499.11 1112.57,468.62 1081.49,468.62 1081.49,499.11 1081.49,516.15 
+		1131.38,516.15 1131.38,499.11 1098.7,499.11 	"/>
+	<polyline class="st4" points="1131.38,499.11 1131.38,468.62 1118.79,468.62 1118.79,484.72 1125.34,484.72 1125.34,499.11 
+		1131.38,499.11 	"/>
+	<line class="st4" x1="607.59" y1="447.4" x2="601.94" y2="447.4"/>
+	<line class="st4" x1="583.64" y1="447.4" x2="571.38" y2="447.4"/>
+	<line class="st4" x1="553.17" y1="447.4" x2="547.04" y2="447.4"/>
+	<line class="st4" x1="547.13" y1="429.26" x2="607.59" y2="429.26"/>
+	<g>
+		<rect x="547.04" y="405.04" class="st4" width="30.47" height="24.21"/>
+		<polyline class="st4" points="568.91,412.17 565.6,412.17 565.6,415.49 562.28,415.49 562.28,418.81 558.96,418.81 558.96,422.13 
+			555.64,422.13 		"/>
+	</g>
+	<g>
+		<rect x="577.51" y="405.04" class="st4" width="30.08" height="24.21"/>
+		<polyline class="st4" points="599.19,412.17 595.87,412.17 595.87,415.49 592.55,415.49 592.55,418.81 589.23,418.81 
+			589.23,422.13 585.91,422.13 		"/>
+	</g>
+	<g>
+		<polygon class="st4" points="234.79,449.38 234.79,431.21 265.89,431.21 265.89,440.3 246.81,440.3 246.81,449.38 		"/>
+		<polyline class="st4" points="253.57,432.85 251.64,432.85 251.64,434.79 249.7,434.79 249.7,436.72 247.77,436.72 247.77,438.66 
+			245.83,438.66 		"/>
+	</g>
+	<g>
+		<rect x="185.77" y="378.11" class="st4" width="9.28" height="41.55"/>
+		<polyline class="st4" points="193.72,396.39 192.06,396.39 192.06,398.05 190.4,398.05 190.4,399.71 188.74,399.71 188.74,401.37 
+			187.09,401.37 		"/>
+	</g>
+	<g>
+		<rect x="497.81" y="119.04" class="st4" width="8.94" height="43.23"/>
+		<polyline class="st4" points="505.6,138.17 503.94,138.17 503.94,139.83 502.28,139.83 502.28,141.49 500.62,141.49 
+			500.62,143.15 498.96,143.15 		"/>
+	</g>
+	<g>
+		<rect x="506.74" y="119.04" class="st4" width="8.94" height="43.23"/>
+		<polyline class="st4" points="514.53,138.17 512.87,138.17 512.87,139.83 511.21,139.83 511.21,141.49 509.55,141.49 
+			509.55,143.15 507.89,143.15 		"/>
+	</g>
+	<g>
+		<rect x="195.04" y="378.11" class="st4" width="9.7" height="41.55"/>
+		<polyline class="st4" points="203.21,396.39 201.55,396.39 201.55,398.05 199.89,398.05 199.89,399.71 198.23,399.71 
+			198.23,401.37 196.57,401.37 		"/>
+	</g>
+	<g>
+		<g>
+			<polygon class="st4" points="860.15,349.89 860.15,399.38 848.06,399.38 848.06,362.45 841.26,362.45 841.26,349.89 			"/>
+		</g>
+		<polyline class="st4" points="858.81,364.74 856.43,364.74 856.43,367.13 854.04,367.13 854.04,369.51 851.66,369.51 
+			851.66,371.89 849.28,371.89 		"/>
+	</g>
+	<g>
+		<polygon class="st4" points="1129,468.62 1129,455.47 1142.87,455.47 1142.87,516.15 1131.38,516.15 1131.38,468.62 		"/>
+		<polyline class="st4" points="1141.96,475.59 1139.53,475.59 1139.53,478.02 1137.11,478.02 1137.11,480.45 1134.68,480.45 
+			1134.68,482.87 1132.26,482.87 		"/>
+	</g>
+	<g>
+		<rect x="1043.53" y="94.29" class="st4" width="24.7" height="12.35"/>
+		<polyline class="st4" points="1060.91,96.69 1058.4,96.69 1058.4,99.2 1055.88,99.2 1055.88,101.72 1053.37,101.72 
+			1053.37,104.24 1050.85,104.24 		"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,72 @@
+#newNodePanel{
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1050;
+    max-height: 75vh;
+    display: none;
+    overflow-y: scroll;
+}
+#newClassroomPanel{
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1050;
+    max-height: 75vh;
+    display: none;
+    overflow-y: scroll;
+}
+#newClassroomPanelX, #newNodePanelX{
+    user-select: none;
+	transition: background-color 1s;
+}
+#newClassroomPanelX:hover, #newNodePanelX:hover{
+	background-color: #000!important;
+}
+
+option, optgroup{
+    background-color: var(--bs-dark);
+    color: var(--bs-light);
+}
+.list-group-item{
+    background-color: var(--bs-gray-800);
+    border-color: var(--bs-secondary);
+    color: var(--bs-light);
+}
+
+.c-in{ cursor: zoom-in; }
+.c-out{ cursor: zoom-out; }
+.c-wait{ cursor: wait; }
+.c-normal{ cursor: auto; }
+.c-pointer{ cursor: pointer; }
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: rgba(var(--bs-dark-rgb));
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #777;
+    border-radius: 0.25rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+
+@media (max-width: 767.98px){
+    #newNodePanel{
+        /*max-height: 36.15vh;*/
+        max-height: 267.5px;
+    }
+    #newClassroomPanel{
+        max-height: 40vh;
+    }
+}

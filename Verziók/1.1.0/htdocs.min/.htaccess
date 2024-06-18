@@ -1,0 +1,5 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} www.maticsdani.hu
+RewriteRule (.*) https://maticsdani.hu/$1 [R=301,L]
